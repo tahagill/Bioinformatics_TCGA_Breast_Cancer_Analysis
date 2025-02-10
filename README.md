@@ -52,6 +52,4 @@ The processed results will be saved in the `TCGA_results/` folder.
 ## Contributing
 Feel free to fork the repository and submit pull requests!
 
-## License
-This project is licensed under the MIT License.
 
