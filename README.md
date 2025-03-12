@@ -4,7 +4,7 @@
 This project focuses on analyzing breast cancer data from The Cancer Genome Atlas (TCGA) using R and Bioconductor. The analysis aims to identify key biomarkers for early detection and prognosis prediction.
 
 ## Features
-- Gene expression analysis using Bioconductor packages (e.g., DESeq2, edgeR)
+- Gene expression analysis using Bioconductor packages (e.g, DESeq2, edgeR)
 - Integration of TCGA data using `TCGAbiolinks`
 - Principal Component Analysis (PCA) and visualization
 - Machine learning models for cancer subtype classification
